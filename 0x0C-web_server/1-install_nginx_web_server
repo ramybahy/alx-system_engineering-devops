@@ -1,11 +1,7 @@
 #!/usr/bin/env bash
-# Installs a webserver, nginx.
-#!/usit must return a page that contains the string `Hello World!`
+# Installs Nginx
 
-apt-get -y update
-apt-get -y install nginx
-service nginx start
-ufw allow 'Nginx HTTP'
-chown -R "$USER":"$USER" /var/www/html
-chmod -R 755 /var/www
+apt-get update
+apt-get install -y nginx
 echo "Hello World!" > /var/www/html/index.html
+service nginx start
