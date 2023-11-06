@@ -7,13 +7,21 @@ We had recently delivered another component to our as of late sent off Ruby on R
 Timeline:
 
 05-02-2022 9:55 AM GMT+1 - A client grumbled that they couldn't sign in to the site.
+
 05-02-2022 10:20 AM GMT+1 - Winus, one of our backend engineers, encountered similar issues our clients announced.
+
 05-02-2022 10:35 AM GMT+1 - We researched the regulators and the perspectives for irregularities.
+
 05-02-2022 10:40 AM GMT+1 - We expected the bcrypt (one of our site's conditions) jewel being utilized was either to blame or utilized mistakenly on the grounds that the blunder message on the site showed that the bcrypt diamond was raising a blunder over an invalid hash.
+
 05-02-2022 10:42 AM GMT+1 - We made sure that the perspectives probably won't be restricting the structure fields to the right model fields, which later ended up being bogus.
+
 05-02-2022 10:45 AM GMT+1 - We were deceived by feeling that our regulators may be making an alternate hash for a legitimate secret word of the site's administrator.
+
 05-02-2022 10:50 AM GMT+1 - Winus figured the issue could have been that the secret phrase was not as expected.
+
 05-02-2022 11:00 AM GMT+1 - The episode was raised to the backend improvement group.
+
 05-02-2022 11:20 AM GMT+1 - The episode was settled by refreshing the necessities (the bcrypt jewel variant) for the backend server.
 
 Root Cause And Resolution:
