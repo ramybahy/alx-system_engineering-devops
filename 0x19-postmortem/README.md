@@ -1,7 +1,7 @@
 Postmortem
 
 
-![Alt text](alx-system_engineering-devops/0x19-postmortem/post-mortem.png)
+![Alt text](0x19-postmortem/post-mortem.png)
 
 Issue Summary:
 
