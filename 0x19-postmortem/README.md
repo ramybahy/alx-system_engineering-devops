@@ -1,7 +1,5 @@
 Postmortem
 
-post-mortem.png
-
 Issue Summary:
 
 We had recently delivered another component to our as of late sent off Ruby on Rails site and we had our most memorable admission of clients grumbling about the site. 5 minutes after we played out a component update, we began getting messages from our clients discussing "they can't sign in that frame of mind up to our foundation". It was very astounding for us since we realized it dealt with our machines and it worked previously. Around 127 such messages came to our inbox. It was a torrential slide of messages. Knowing how hard it tends to be to draw in and keep clients, we were unable to stand to lose 127 of our clients like that and chose to investigate the issue. We cloned our site's storehouse from GitBug, adhered to the establishment directions on the README and shockingly the site couldn't start. It wasn't some time before we understood that the reason for the issue was neglecting to refresh the necessities for our task. The site was breaking down from 9:55 AM GMT+1 to 11:20 AM GMT+1.
