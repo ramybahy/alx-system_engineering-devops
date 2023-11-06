@@ -1,7 +1,8 @@
 Postmortem
 
 
-![Alt text]([0x19-postmortem/post-mortem.png](https://github.com/ramybahy/alx-system_engineering-devops/blob/master/0x19-postmortem/post-mortem.png))
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+
 
 Issue Summary:
 
